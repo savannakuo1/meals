@@ -1,5 +1,5 @@
 body {
-    background-color: #93a88f;
+    background-color: #a1af95;
   }
   
   .title {
@@ -17,6 +17,7 @@ body {
     height: 500px;
     padding: 20px;
     margin: 25px;
+    border: 3px solid #3c4a39;
     border-radius: 30px;
     box-shadow: #3c4a394a -10px 10px;
   }
@@ -60,5 +61,11 @@ body {
     padding-top: 10px;
   }
   
+.custom-line {
+  border: none;
+  height: 3px;
+  background-color: #3c4a39;
+  margin-bottom: 2%;
+}
 
   
