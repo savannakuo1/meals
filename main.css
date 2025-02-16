@@ -1,5 +1,5 @@
 body {
-    background-color: #a1af95;
+    background-color: rgb(237, 237, 237);
   }
   
   .title {
@@ -19,7 +19,7 @@ body {
     margin: 25px;
     border: 3px solid #3c4a39;
     border-radius: 30px;
-    box-shadow: #3c4a394a -10px 10px;
+    box-shadow: #3c4a394a 10px 10px;
   }
   
   h1 {
@@ -48,7 +48,7 @@ body {
   }
   
   .boxes:hover {
-    transform: scale(1.02);
+    transform: rotate(8deg);
   }
   
   img {
