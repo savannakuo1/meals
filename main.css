@@ -28,6 +28,8 @@ body {
   h1 {
     color: #3c4a39;
     line-height: 35px;
+    font-family: "span", serif;
+    font-weight: bold;
   }
 
   p {
